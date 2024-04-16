@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverenseSoftTest", "CleverenseSoftTest\CleverenseSoftTest.csproj", "{11A41CFE-ED5C-47B4-A389-27144570F2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{044187BE-8250-4951-BCA6-EE3BA02D1095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A41CFE-ED5C-47B4-A389-27144570F2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A41CFE-ED5C-47B4-A389-27144570F2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A41CFE-ED5C-47B4-A389-27144570F2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A41CFE-ED5C-47B4-A389-27144570F2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044187BE-8250-4951-BCA6-EE3BA02D1095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044187BE-8250-4951-BCA6-EE3BA02D1095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044187BE-8250-4951-BCA6-EE3BA02D1095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044187BE-8250-4951-BCA6-EE3BA02D1095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0D9DB2-AEFF-4AB5-A697-D0A1B747AA7B}
+	EndGlobalSection
+EndGlobal
